@@ -28,9 +28,15 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
+
+![image](https://github.com/user-attachments/assets/ee7d60e4-77e5-44a9-a436-4d9515b7303e)
+
 /* write all the steps invloved */
 
 **PROGRAM**
+
+
+![image](https://github.com/user-attachments/assets/135d957f-cf3a-4233-bd2a-463bc7992b23)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
@@ -38,7 +44,14 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 **RTL LOGIC FOR FLIPFLOPS**
 
 
+![image](https://github.com/user-attachments/assets/49b8dd24-3770-482a-bc04-ed6d16a30ce8)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/user-attachments/assets/d24dc0af-51b5-487d-909b-407bc54529a6)
 
 **RESULTS**
+
+
+![image](https://github.com/user-attachments/assets/bef865b7-c8d8-4b83-b6f3-8bb58e31a1ee)
